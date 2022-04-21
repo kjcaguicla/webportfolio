@@ -67,7 +67,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #ffc200 !important;
+  color: #5bc0be !important;
 }
 
 .navbar-brand .uil {
@@ -120,14 +120,14 @@ b, strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #ffc200;
+  color: #5bc0be;
 }
 .custom-btn.custom-btn-bg {
   background: #474559;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #ffc200;
+  background: #5bc0be;
   color: #ffffff !important;
 }
 /*END OF BUTTON LP*/
@@ -146,7 +146,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #5bc0be;
 }
 
 .animated-item {
@@ -221,7 +221,7 @@ b, strong {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #ffc200;
+  color: #5bc0be;
   font-weight: bold;
 }
 .navbar-light .navbar-nav .nav-link:focus span,
@@ -279,8 +279,8 @@ b, strong {
   text-align: center;
   margin-right: px;
   width: 13rem;
-  border-color:#ffc200 ;
-  border-width: 5px;
+  border-color:#5bc0be ;
+  border-width: 3px;
 }
 
 /*CONTACT*/
@@ -303,10 +303,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color: #5bc0be;
 }
 .contact-form .submit-btn {
-  background: #ffc200;
+  background: #5bc0be;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
